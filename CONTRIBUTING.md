@@ -18,7 +18,7 @@ Thank you for your interest in contributing to SafeCircle! We’re committed to 
 ## How to Contribute
 
 There are several ways you can help make SafeCircle better:
-- **Report Bugs:** If you find an issue, please check the [Issue Tracker](https://github.com/YourOrganizationName/SafeCircle/issues) and open a new issue if one does not already exist.
+- **Report Bugs:** If you find an issue, please check the [Issue Tracker](https://github.com/safecircleia/issues) and open a new issue if one does not already exist.
 - **Suggest Features:** We welcome suggestions for new features or improvements. Feel free to open a feature request.
 - **Submit Code Changes:** Fork the repository, create a feature branch, and submit a pull request. Ensure your changes adhere to our guidelines.
 - **Improve Documentation:** Clear and comprehensive documentation is vital. Help us improve our guides and references.
@@ -26,7 +26,7 @@ There are several ways you can help make SafeCircle better:
 ## Reporting Issues
 
 Before opening a new issue, please:
-1. Search the [issue tracker](https://github.com/YourOrganizationName/SafeCircle/issues) to see if the issue has already been reported.
+1. Search the [issue tracker](https://github.com/safecircleia/issues) to see if the issue has already been reported.
 2. Provide a clear and descriptive title.
 3. Describe the problem in detail, including steps to reproduce the issue, expected behavior, and screenshots if applicable.
 4. Include any relevant logs or error messages.
@@ -73,18 +73,18 @@ When you're ready to submit your changes:
 
 SafeCircle values community input and collaboration:
 - **Early Governance:** Token holders and early contributors can participate in shaping key project decisions. Your input helps direct our roadmap.
-- **Community Forums:** Join our [Discord](https://discord.gg/YourInviteLink) for discussions, questions, and updates.
+- **Community Forums:** Join our [Discord](https://discord.gg/Ubr6AcAupr) for discussions, questions, and updates.
 - **Feedback:** We welcome feedback on both our code and our overall project direction.
 
 ## Additional Resources
 
-- [SafeCircle Website](https://safecircle.io)
-- [GitHub Issues](https://github.com/YourOrganizationName/SafeCircle/issues)
+- [SafeCircle Website](https://safecircle.tech)
+- [GitHub Issues](https://github.com/safecircleia/issues)
 - [SafeCircle Documentation](./docs/README.md)
 
 ## Code of Conduct
 
-Please note that this project adheres to a [Code of Conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [contact@safecircle.io](mailto:contact@safecircle.io).
+Please note that this project adheres to a [Code of Conduct](./CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [contact@safecircle.tech](mailto:contact@safecircle.tech).
 
 ---
 
