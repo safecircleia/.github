@@ -1,4 +1,4 @@
-# SafeCircle Organization
+# SafeCircle
 
 Welcome to the official GitHub organization for **SafeCircle** – where innovation meets security in the digital age.
 
