@@ -18,6 +18,7 @@ Welcome to the official GitHub organization for **SafeCircle** – where innovat
 We welcome contributions from developers, designers, and community enthusiasts who share our vision for a safer digital world. Here’s how you can participate:
 - **Explore Our Repositories:** Check out our projects and look for issues labeled as “good first issue” if you're new to the community.
 - **Read Our Guidelines:** Please review our [Contributing Guidelines](CONTRIBUTING.md) to understand our coding standards and contribution process.
+- **Read Our Design Principles:** Check out our [Design Document](DESIGN.md) to understand the architectural decisions and principles guiding SafeCircle.
 - **Join the Conversation:** Connect with us on [Discord](https://discord.gg/YourInviteLink) and follow us on [Twitter](https://twitter.com/safecircleai) to stay updated on new releases and community discussions.
 - **Submit Pull Requests:** We actively review and merge contributions that align with our mission and quality standards.
 
