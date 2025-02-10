@@ -19,7 +19,7 @@ We welcome contributions from developers, designers, and community enthusiasts w
 - **Explore Our Repositories:** Check out our projects and look for issues labeled as “good first issue” if you're new to the community.
 - **Read Our Guidelines:** Please review our [Contributing Guidelines](CONTRIBUTING.md) to understand our coding standards and contribution process.
 - **Read Our Design Principles:** Check out our [Design Document](DESIGN.md) to understand the architectural decisions and principles guiding SafeCircle.
-- **Join the Conversation:** Connect with us on [Discord](https://discord.gg/YourInviteLink) and follow us on [Twitter](https://twitter.com/safecircleai) to stay updated on new releases and community discussions.
+- **Join the Conversation:** Connect with us on [Discord](https://discord.gg/Ubr6AcAupr) and follow us on [Twitter](https://twitter.com/safecircleai) to stay updated on new releases and community discussions.
 - **Submit Pull Requests:** We actively review and merge contributions that align with our mission and quality standards.
 
 ## Organization Structure
@@ -30,7 +30,7 @@ SafeCircle is built on a foundation of collaboration. Our team comprises experts
 
 - **Website:** [https://safecircle.tech](https://safecircle.tech)
 - **Twitter:** [@SafeCircle](https://twitter.com/safecircleai)
-- **Discord:** [Join our Community]([https://discord.gg/](https://discord.gg/Ubr6AcAupr))
+- **Discord:** [Join our Community](https://discord.gg/Ubr6AcAupr)
 - **Email:** contact@safecircle.tech
 
 ## License
