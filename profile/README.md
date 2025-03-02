@@ -31,6 +31,7 @@ SafeCircle is built on a foundation of collaboration. Our team comprises experts
 - **Website:** [https://safecircle.tech](https://safecircle.tech)
 - **Twitter:** [@SafeCircle](https://twitter.com/safecircleai)
 - **Discord:** [Join our Community](https://discord.gg/Ubr6AcAupr)
+- **Telegram:** [https://t.me/safecirclehub](https://t.me/safecirclehub)
 - **Email:** contact@safecircle.tech
 
 ## License
