@@ -30,6 +30,10 @@ SafeCircle is built on a foundation of collaboration. Our team comprises experts
 - **Twitter:** [@SafeCircleai](https://twitter.com/safecircleai)
 - **Email:** contact@safecircle.tech
 
+## Token
+
+`CQcjASdDAvTMJsybZTJJ3hvfdwbi4uTqmtd2SNqYpump`
+
 ## License
 
 Each project within the SafeCircle organization is released under a license that promotes open collaboration while protecting our community’s interests. Please refer to the LICENSE file in each repository for detailed licensing information.
