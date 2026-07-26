@@ -32,7 +32,7 @@ SafeCircle is built on a foundation of collaboration. Our team comprises experts
 
 ## Token
 
-`CQcjASdDAvTMJsybZTJJ3hvfdwbi4uTqmtd2SNqYpump`
+`0xd2e5312565d0868B3D35D92C727F5fBd09686f15`
 
 ## License
 
